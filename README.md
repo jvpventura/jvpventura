@@ -17,38 +17,26 @@ Busco minha **primeira oportunidade profissional na área de desenvolvimento**, 
 ---
 
 ## 🛠️ Tecnologias e Conhecimentos
-
 *(nível júnior / em aprendizado contínuo)*
 
-**Front-end:**
+**Front-end:**  
+- HTML5  
+- CSS3  
+- JavaScript  
+- TypeScript  
+- React  
 
-* HTML5
-* CSS3
-* JavaScript
-* React
+**Back-end:**  
+- Node.js  
+- TypeScript  
+- Express  
 
-**Back-end:**
+**Banco de Dados:**  
+- MySQL  
+- PostgreSQL  
 
-* Node.js
-* Java
-* Python
-* Spring
-
-**Banco de Dados:**
-
-* MySQL
-* PostgreSQL
-
-**Fundamentos:**
-
-* Lógica de Programação
-* Programação Orientada a Objetos
-* APIs REST
-
-**Ferramentas:**
-
-* Git & GitHub
-
+**Ferramentas:**  
+- Git & GitHub
 ---
 
 ## 📂 Projetos
